@@ -25,22 +25,22 @@
     <li>
       <a href="#what-is-blizzard">What is Blizzard?</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#how-does-it-work">How does it work?</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#features">Features</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#to-do-list">To-do list</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#coming soon">Coming Soon!</a></li>
+    <li><a href="#roadmap">Coming Soon!</a></li>
+    <li><a href="#contributing">Coming Soon!</a></li>
+    <li><a href="#license">Coming Soon!</a></li>
+    <li><a href="#contact">Coming Soon!</a></li>
+    <li><a href="#acknowledgments">Coming Soon!</a></li>
   </ol>
 </details>
   
