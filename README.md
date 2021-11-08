@@ -11,7 +11,7 @@
 
   
   <a href="https://www.dsc.gg/blizzardbot">
-    <img src="https://img.shields.io/discord/515071617815019520.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
+    <img src="https://img.shields.io/discord/907083009293963294.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
   </a>
   
   
