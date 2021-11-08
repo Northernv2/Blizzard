@@ -41,4 +41,4 @@ This list is will be ever-growing if we get support and motivation. See a full l
 
 ## Credits
   
-  This bot was coded by **[NorthernV2]**(https://www.github/NorthernV2)
+  This bot was coded by [NorthernV2](https://www.github/NorthernV2)
