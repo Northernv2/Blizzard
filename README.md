@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/discord/907083009293963294.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
   </a>
   
+  <a href="https://www.discord.js.org/downloads/">
+    <img src="https://img.shields.io/badge/Made%20With-DiscordJS%203.7-blue.svg?style=for-the-badge&logo=DiscordJS" alt="Made with DiscordJS 12.5.3">
+  </a>
+  
   
   ## What is Blizzard?
 
