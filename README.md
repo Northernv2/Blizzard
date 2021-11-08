@@ -19,7 +19,7 @@
 
 Blizzard is a multi-functional discord bot with over 100+ commands, and will have even more when development grows.
 
-This bot is free for everyone and always will be. If you like this project and would like to show your appreciation, you can support us on **[Discord]**(https://www.dsc.gg/blizzardbot**), cool benefits included! 
+This bot is free for everyone and always will be. If you like this project and would like to show your appreciation, you can support us on [Discord](https://www.dsc.gg/blizzardbot), cool benefits included! 
 
 ## How does it work?
 
