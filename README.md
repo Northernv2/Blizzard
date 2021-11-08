@@ -1,0 +1,2 @@
+# Blizzard
+Bllizzard Discord Bot
