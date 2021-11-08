@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://www.discord.js.org/downloads/">
-    <img src="https://img.shields.io/badge/Made%20With-DiscordJS%203.7-blue.svg?style=for-the-badge&logo=DiscordJS" alt="Made with DiscordJS 12.5.3">
+    <img src="https://img.shields.io/badge/Made%20With-DiscordJS%2012.5.3-blue.svg?style=for-the-badge&logo=DiscordJS" alt="Made with DiscordJS 12.5.3">
   </a>
   
   
