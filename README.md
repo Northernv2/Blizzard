@@ -42,6 +42,17 @@ Well, there are 100+ commands so I can't explain them all, so you'll have to see
 
 
 This list is will be ever-growing if we get support and motivation. See a full list of documented commands by using the `$help` command.
+  
+  
+  ## To-Do List
+
+* **Things we want to add:**
+  * Modmail System
+  * Giveaway system
+  * Ticket System
+  * Fully automatic dashboard 
+  * 300+ Commands
+  * Many many more!
 
 ## Credits
   
